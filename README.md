@@ -1,5 +1,5 @@
 # Data-Analysis-2025
-# My first capstone
+# Capstone Project
 
 [Screenshot of dashboard](https://imgur.com/a/UDM2s89)
 
